@@ -1,0 +1,8 @@
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Bookmark with id 30360728-6fea-4ce7-b669-d095857b02c not found.","level":"error"}
+{"message":"Bookmark with id 30360728-6fea-4ce7-b669-d095857b02cb not found.","level":"error"}
+{"message":"Bookmark with id 30360728-6fea-4ce7-b669-d095857b02c not found.","level":"error"}
+{"message":"Bookmark with id 7d8455c1-5e2f-4867-b69f-a29b16c2c8c4 not found.","level":"error"}
+{"message":"Bookmark with id 7d8455c1-5e2f-4867-b69f-a29b16c2c8c4 not found.","level":"error"}
+{"message":"Bookmark with id 7d8455c1-5e2f-4867-b69f-a29b16c2c8c4 not found.","level":"error"}
+{"message":"Bookmark with id bb062a56-a9ac-4592-bf01-cb1d091a83d9 deleted.","level":"info"}
