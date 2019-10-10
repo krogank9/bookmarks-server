@@ -31,7 +31,7 @@ app.use(function validateBearerToken(req, res, next) {
 })
 
 app.get("/", (req, res) => {
-	res.send("Hello, boilerplate!");
+	res.send("Hello, world!");
 });
 
 app.use(function errorHandler(error, req, res, next) {
